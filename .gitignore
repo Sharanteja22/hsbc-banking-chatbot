@@ -1,0 +1,16 @@
+# Python / Backend
+/server/tst/
+/server/__pycache__/
+*.pyc
+
+# Node / Frontend
+/client/node_modules/
+/client/dist/
+.npm
+
+# Secrets - Do not commit API keys!
+.env
+
+# IDE and OS files
+.vscode/
+.DS_Store
